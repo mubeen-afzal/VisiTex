@@ -1,0 +1,4 @@
+gradiop
+opencv-python
+torch
+transformers
